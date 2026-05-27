@@ -1,0 +1,2 @@
+HumanMessage(content="I want to request a refund for my order #12345. The product arrived damaged and I am not satisfied with it.")
+AIMessage(content="Your refund request for order #12345 has been initiated.It will be processed within 5-7 business days. We apologize for the inconvenience caused by the damaged product.")
